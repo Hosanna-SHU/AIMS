@@ -85,6 +85,8 @@ main {
 
 #productGrid {
     margin-top: 20px;
+    overflow: scroll;
+    max-height: 60vh;
 }
 
 /* Filter Button Styles */
